@@ -1,3 +1,3 @@
 #!/bin/bash
 
-service httpd status
+sudo service httpd status
